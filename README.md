@@ -9,7 +9,6 @@ Intro.js can be added to your site in 4 simple steps:
 **1)** Add AppRecorder.h & AppRecorder.m to your project
 
 **2)** Import AppRecorder.h where you would like to use it.
-For example: 
 ```objective-c
 #import "AppRecorder.h"
 ````
