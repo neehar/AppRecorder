@@ -1,6 +1,6 @@
 AppRecorder
 ===========
-Record you app user sessions and save them to the Photos app. 
+Record app user sessions and save them to the Photos app. 
 
 ##How to use
 Added AppRecorder to your app in 4 simple steps:
