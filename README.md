@@ -27,7 +27,7 @@ AppRecorder *appRecorder = [[AppRecorder alloc] init];
 [app Recorder stop];
 ````
  
-The recorded video is automatically stored into the PhotoAlbums app on your iPhone.
+The recorded video is automatically stored into the Photos app on your iPhone.
 
 ##Roadmap
 - Add audio recording funtionality to capture the user's voice along with the session. This would be awesome for recording How To Video for your App.
