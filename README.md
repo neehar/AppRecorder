@@ -31,7 +31,7 @@ The recorded video is automatically stored into the Photos app on your iPhone.
 
 ##Roadmap
 - Add audio recording funtionality to capture the user's voice along with the session. This would be awesome for recording How To Video for your App.
-- Saving to multiple sources for easy distribution of the recorded videos.
+- Saving to multiple sources (Youtube, Dropbox) for easy distribution of the recorded videos.
 
 ##License
 
