@@ -1,36 +1,32 @@
 AppRecorder
 ===========
-
-A screenrecorder for your iphone app.  
+Record you app user sessions and save them to the Photos app. 
 
 ##How to use
-AppRecorder can be added to your site in 4 simple steps:
+Added AppRecorder to your app in 4 simple steps:
 
-**1)** Add AppRecorder.h & AppRecorder.m to your project
+**1)** Add AppRecorder.h & AppRecorder.m to your project.
 
 **2)** Import AppRecorder.h where you would like to use it.
 ```objective-c
 #import "AppRecorder.h"
 ````
-  
 **3)** Initialize an instance of AppRecorder 
 ```objective-c
 AppRecorder *appRecorder = [[AppRecorder alloc] init];
 ````
-
 **4)** Start & stop recording
 ```objective-c
 [appRecorder start];
 
 &
 
-[app Recorder stop];
-````
- 
+[appRecorder stop];
+```` 
 The recorded video is automatically stored into the Photos app on your iPhone.
 
 ##Roadmap
-- Add audio recording funtionality to capture the user's voice along with the session. This would be awesome for recording How To Video for your App.
+- Add audio recording funtionality to capture the user's voice along with the session. This would be great for recording How-To videos & tutorials for your App.
 - Saving to multiple sources (Youtube, Dropbox) for easy distribution of the recorded videos.
 
 ##License
