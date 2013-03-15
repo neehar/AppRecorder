@@ -4,7 +4,7 @@ AppRecorder
 A screenrecorder for your iphone app.  
 
 ##How to use
-Intro.js can be added to your site in 4 simple steps:
+AppRecorder can be added to your site in 4 simple steps:
 
 **1)** Add AppRecorder.h & AppRecorder.m to your project
 
